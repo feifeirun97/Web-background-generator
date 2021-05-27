@@ -1,5 +1,5 @@
 # Web-background-generator
-![zX](https://i.loli.net/2021/05/27/2xYFrtgoBLzywsZ.jpg)
+![show.png](https://i.loli.net/2021/05/27/2xYFrtgoBLzywsZ.jpg)
 
 HTML+CSS+JS.
 
