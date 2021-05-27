@@ -1,5 +1,5 @@
 # Web-background-generator
-![show.png](https://i.loli.net/2021/05/27/2xYFrtgoBLzywsZ.jpg)
+[Click to see display](https://feifeirun97.github.io/Web-background-generator/)
 
 HTML+CSS+JS.
 
